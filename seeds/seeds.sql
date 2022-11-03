@@ -18,7 +18,7 @@ VALUES  (1,  'COMPANY Director', 200000, 1),
         (10, 'HR AND PEOPLE Manager', 60000, 5),
         (11, 'MARKETING Manager', 100000, 3),
         (12, 'IT Manager', 100000, 4);
-        (13, 'Opertions Manager', 100000, 1)
+        (13, 'OPERATIONS Manager', 100000, 1)
 
 INSERT INTO employee (id, first_name, last_name, role_id, manager_id)
 VALUES  (001, 'John', 'Jamiseon', 1, null),
