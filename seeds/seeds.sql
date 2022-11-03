@@ -1,3 +1,5 @@
+USE employee_tracker_db;
+
 INSERT INTO department (id, department_name)
 VALUES  (001, 'OPERATIONS'),
         (002, 'FINANCE'),
